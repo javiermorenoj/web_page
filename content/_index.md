@@ -30,6 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
+section:
   - block: collection
     content:
       title: Recent Publications
