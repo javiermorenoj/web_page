@@ -11,7 +11,7 @@ sections:
       title: Publication
       subtitle: A subtitle
       text:
-            1. [Latin America’s Renewable Energy Impact: Climate Change and Global Economic Consequences](https://www.mdpi.com/1996-1073/17/1/179) , 
+            1. [Latin America’s Renewable Energy Impact- Climate Change and Global Economic Consequences](https://www.mdpi.com/1996-1073/17/1/179) , 
 
     
   - block: markdown
