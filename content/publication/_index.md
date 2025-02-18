@@ -1,12 +1,6 @@
 ---
-title: 
-subtitle: Publication
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-
+title: Research
+content:
+  title: Publication
+  text: Paper 1
 ---
