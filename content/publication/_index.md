@@ -9,9 +9,7 @@ sections:
   - block: markdown
     content:
       title: Publication
-      subtitle: paper 1
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-    
+      text: 1. [A publication](https://www.mdpi.com/1996-1073/17/1/179)
   - block: markdown
     content:
       title: Working Paper
