@@ -40,16 +40,4 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1d color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
 ---
