@@ -1,6 +1,9 @@
 ---
 title: Research
-content:
-  title: Publication
-  text: Paper 1
+
+## Publication
+text: Aqui iría alguna descripcion
+
+## Working Paper
+text: Aqui iría otra descripcion
 ---
