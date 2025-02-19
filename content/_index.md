@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "10rem"
+  spacing: "4rem"
 
 sections:
   - block: resume-biography-3
@@ -18,7 +18,18 @@ sections:
       button:
         text: Download CV
         url: uploads/CV_JM.pdf
-
+    design:
+      css_class: dark
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: stacked-peaks.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
 section:
   - block: collection
     content:
