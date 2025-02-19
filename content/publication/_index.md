@@ -26,7 +26,7 @@ sections:
       subtitle: A subtitle
       text:
             1. **Simple Implementable Financial Policy Rules** with [Mauricio Calani](https://mcalani.github.io/) and [Marco Piña](https://marco-pina.github.io/)
-            Draft available [here](https://www.dropbox.com/scl/fi/dno3i3cmsyoixg769a8o5/SIFPR_022025.pdf?rlkey=03ln986qr3rnv9nipn8544jdl&st=6cs607je&dl=0)
+             [_Draft_](https://www.dropbox.com/scl/fi/dno3i3cmsyoixg769a8o5/SIFPR_022025.pdf?rlkey=03ln986qr3rnv9nipn8544jdl&st=6cs607je&dl=0)
     
   - block: markdown
     content:
