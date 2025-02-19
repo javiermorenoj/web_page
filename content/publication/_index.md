@@ -2,7 +2,7 @@
 # Page title
 title: Research
 # Page type - we want a landing page (such as a homepage)
-type: landing
+type: 
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
