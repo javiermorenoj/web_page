@@ -25,7 +25,10 @@ sections:
       title: Working Papers
       subtitle: A subtitle
       text:
-            1. **Simple Implementable Financial Policy Rules** with [Mauricio Calani](https://mcalani.github.io/) and [Marco Piña](https://marco-pina.github.io/) 
+            1. **Simple Implementable Financial Policy Rules** with [Mauricio Calani](https://mcalani.github.io/) and [Marco Piña](https://marco-pina.github.io/)
+      button:
+        text: Draft
+        url: uploads/SIFPR_022025.pdf 
 
   - block: markdown
     content:
