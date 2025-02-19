@@ -33,6 +33,6 @@ sections:
       title: Work in Progress
       subtitle: A subtitle
       text: 
-            - Yield Curve in a Small Open Economy with [Damian Romero](https://marco-pina.github.io/)
-            - Climate Change and Endogenous Risk
+            1. Yield Curve in a Small Open Economy with [Damian Romero](https://marco-pina.github.io/)
+            2. Climate Change and Endogenous Risk.
 ---
