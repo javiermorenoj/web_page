@@ -25,7 +25,7 @@ sections:
       title: Working Papers
       subtitle: A subtitle
       text:
-            1. Simple Implementable Financial Policy Rules** with [Mauricio Calani](https://mcalani.github.io/) and [Marco Piña](https://marco-pina.github.io/)
+            1. **Simple Implementable Financial Policy Rules** with [Mauricio Calani](https://mcalani.github.io/) and [Marco Piña](https://marco-pina.github.io/)
              [_Draft_](https://www.dropbox.com/scl/fi/dno3i3cmsyoixg769a8o5/SIFPR_022025.pdf?rlkey=03ln986qr3rnv9nipn8544jdl&st=6cs607je&dl=0)
     
   - block: markdown
@@ -33,6 +33,6 @@ sections:
       title: Work in Progress
       subtitle: A subtitle
       text: 
-            Yield Curve in a Small Open Economy with [Damian Romero](https://marco-pina.github.io/)
-            Climate Change and Endogenous Risk
+            - Yield Curve in a Small Open Economy with [Damian Romero](https://marco-pina.github.io/)
+            - Climate Change and Endogenous Risk
 ---
