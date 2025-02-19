@@ -8,7 +8,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Publication
+      title: Publications
       subtitle: A subtitle
       text:
             1. [**"Latin America’s Renewable Energy Impact - Climate Change and Global Economic Consequences"**](https://www.mdpi.com/1996-1073/17/1/179), with [Juan Pablo Medina](https://negocios.uai.cl/profesor/juan-pablo-medina/) and [Rodrigo Palma-Behnke](https://scholar.google.com/citations?user=5ntc1PMAAAAJ&hl=es), _Energies_ 17(1), 179, 2024.
@@ -19,11 +19,18 @@ sections:
             {{< spoiler text="Abstract" >}}
             The study of energy and climate has become of primary relevance for policymakers in central banks and other institutions. Current analyses for Chile suggest medium to strong direct physical effects, with some studies pointing to relatively higher impacts in the northern and central regions. Also, indirect effects, such as those originating from green transitions around the world, are likely to be significant. This paper provides a brief review of the effects that climate change may have on the economy and describes efforts made by the Central Bank of Chile to gain a better understanding of these effects. These efforts include; geo-referencing of assets and the primary physical risks they face, characterization of the transmission channels through which climate risks can propagate, a better estimation of the uncertainty of climatic events and the development of new general equilibrium models.
             {{< /spoiler >}}
-    
  
   - block: markdown
     content:
-      title: Working Paper
+      title: Working Papers
+      subtitle: A subtitle
+      text:
+            1. **Simple Implementable Financial Policy Rules** with [Mauricio Calani](https://mcalani.github.io/) and [Marco Piña](https://marco-pina.github.io/)
+            {{% staticref "uploads/cv.pdf" "newtab" %}}Draft available here{{% /staticref %}}
+
+  - block: markdown
+    content:
+      title: Work in Progress
       subtitle: A subtitle
       text: Add your Section 2 content here...
 ---
